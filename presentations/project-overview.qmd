@@ -1,0 +1,23 @@
+---
+title: "Project overview"
+format:
+  revealjs:
+    theme: simple
+    embed-resources: true
+execute:
+  echo: false
+---
+
+## Project overview
+
+Scientific question and study context.
+
+## Analysis plan
+
+- Data QC
+- Primary comparisons
+- Pathway and mechanistic interpretation
+
+## Conclusions
+
+Replace with supported findings.

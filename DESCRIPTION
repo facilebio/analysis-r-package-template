@@ -1,0 +1,32 @@
+Package: analysisproject
+Title: Reproducible Scientific Analysis Project
+Version: 0.0.0.9000
+Authors@R: person("First", "Last", email = "steve@aratus.bio", role = c("aut", "cre"))
+Description: Project-specific code, documentation and reproducible scientific
+    analysis reports. The package provides reusable methods for the project,
+    while pkgdown publishes the analysis website.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 8.1.0
+Imports:
+    checkmate,
+    edgeR,
+    FacileAnalysis,
+    FacileData,
+    FacileBiocData,
+    FacileData,
+    FacileAnalysis,
+    limma,
+    tidyverse
+Suggests:
+    knitr,
+    pkgdown,
+    quarto,
+    rmarkdown,
+    testthat (>= 3.0.0)
+Remotes:
+    facilebio/FacileAnalysis,
+    facilebio/FacileBiocData,
+    facilebio/FacileData
+Config/testthat/edition: 3

@@ -1,0 +1,15 @@
+.Rhistory
+.RData
+.Rproj.user/
+.Rcheck/
+*.Rproj
+.DS_Store
+# Built website and rendered slides
+docs/
+presentations/_rendered/
+presentations/*_files/
+presentations/*.html
+# Potentially large or sensitive inputs and outputs
+results/*
+!results/.gitkeep
+# Add raw data directories to this list if created.

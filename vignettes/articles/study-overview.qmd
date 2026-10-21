@@ -1,0 +1,17 @@
+---
+title: "Study overview"
+format: html
+---
+
+## Scientific question
+
+Describe the key hypothesis, controls, batches, and endpoints.
+
+## Study design
+
+Include sample inventory, primary comparisons, limitations, and preregistered
+signatures or methods (if applicable).
+
+## Primary findings
+
+Link to the individual reports under **Analyses**.

@@ -1,0 +1,19 @@
+---
+title: "Data QC and exploration"
+format: html
+---
+
+## Input data
+
+Describe provenance, batch metadata, QC decisions, and any exclusions.
+
+## Summary
+
+This is a lightweight placeholder report. Load precomputed results here; avoid
+re-running alignment, normalization, or statistical modeling during website builds.
+
+```{r}
+#| echo: true
+#| eval: false
+# qs <- readRDS(here::here("results", "sample_qc.rds"))
+```

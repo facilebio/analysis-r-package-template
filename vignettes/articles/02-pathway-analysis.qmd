@@ -1,0 +1,21 @@
+---
+title: "Pathway analysis"
+format: html
+---
+
+## Methods
+
+Document signatures, normalization, contrasts, multiple-testing procedures,
+and experimental assumptions.
+
+## Results
+
+```{r}
+#| echo: true
+#| eval: false
+# pathway_results <- readRDS(here::here("results", "pathway_scores.rds"))
+```
+
+## Caveats
+
+Discuss technical confounding, uncertainty, and generalizability.

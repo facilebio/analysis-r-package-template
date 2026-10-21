@@ -1,0 +1,12 @@
+^_pkgdown\.yml$
+^docs$
+^presentations$
+^results$
+^data-raw$
+^scripts$
+^README\.md$
+^LICENSE\.md$
+^\.github$
+^\.gitignore$
+^\.Rbuildignore$
+^vignettes/articles$

@@ -1,0 +1,29 @@
+template:
+  bootstrap: 5
+  bootswatch: flatly
+  light-switch: true
+
+auto:
+  development: off
+
+navbar:
+  structure:
+    left: [articles, presentations, reference]
+    right: [search, github, lightswitch]
+  components:
+    articles:
+      text: Analyses
+    presentations:
+      text: Presentations
+      menu:
+        - text: Project overview
+          href: presentations/project-overview.html
+
+articles:
+  - title: Study overview
+    contents:
+      - articles/study-overview
+  - title: Analyses
+    contents:
+      - articles/01-data-qc
+      - articles/02-pathway-analysis
